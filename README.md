@@ -1,3 +1,14 @@
+# Title : React-Simple Carousel
+
+Languages : Javascript (62.7%), HTML (26%) and CSS (11.3%)
+Built with : React js
+
+# Description
+
+React js simple Carousel with on onclick 'previous' and 'next' buttons.
+
+https://gyazo.com/8a6e2df8dbf356513f9e32b0a802f17f
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
